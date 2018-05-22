@@ -73,7 +73,7 @@ Zap makes this easy by offering `Panic` and `Fatal` logging methods that
 automatically flush before exiting. Of course, this doesn't guarantee that
 logs will never be lost, but it eliminates a common error.
 
-See the discussion in uber-go/zap#207 for more details.
+See the discussion in [uber-go/zap#207](https://github.com/uber-go/zap/issues/207) for more details.
 
 ### What's `DPanic`?
 
